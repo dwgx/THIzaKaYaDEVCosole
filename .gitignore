@@ -1,0 +1,29 @@
+# Build outputs
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.pch
+*.ipch
+*.lastbuildstate
+
+# VS files
+.vs/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+ipch/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
