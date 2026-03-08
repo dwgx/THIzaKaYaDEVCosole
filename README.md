@@ -1,3 +1,12 @@
+## Compliance Notice / 合规声明
+
+- This repository is provided only for education, reverse engineering research, debugging, and interoperability study.
+- Do not use any code or ideas here for unauthorized access, cheating in online services, privacy invasion, data theft, malware delivery, or service disruption.
+- You must comply with applicable laws, platform Terms of Service, and software/game EULA before any use.
+- If any content infringes your rights, open an issue or contact the maintainer for removal.
+- Full statement: [DISCLAIMER.md](./DISCLAIMER.md)
+
+---
 # 东方夜雀食堂 DEV Console
 
 Unity IL2CPP 调试控制台，通过 DLL 注入 + D3D11 Present Hook + Dear ImGui 实现游戏内覆盖层 UI。
@@ -145,3 +154,4 @@ constexpr uintptr_t RVA_ConcreteTypeInfo  = 0x422F890;
 ## 免责声明
 
 本工具仅供学习和研究用途。使用本工具修改游戏可能违反游戏服务条款，请自行承担风险。
+
