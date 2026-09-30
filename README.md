@@ -4,9 +4,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner.svg?t=0e491683b13a" />
-  <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.svg?t=0e491683b13a" />
-  <img src="docs/assets/banner.svg?t=0e491683b13a" width="100%" alt="THIzaKaYaDEVCosole — 东方 Mystia 酒馆 Unity IL2CPP 调试台 · DX11/ImGui 实验" />
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner.svg?t=7ac433418b91" />
+  <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.svg?t=7ac433418b91" />
+  <img src="docs/assets/banner.svg?t=7ac433418b91" width="100%" alt="THIzaKaYaDEVCosole — 东方 Mystia 酒馆 Unity IL2CPP 调试台 · DX11/ImGui 实验" />
 </picture>
 
 <br/>
