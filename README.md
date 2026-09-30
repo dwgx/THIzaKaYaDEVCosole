@@ -1,5 +1,24 @@
 ## Compliance Notice / 合规声明
 
+<!-- dwgx-banner:BEGIN -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner.svg?t=30b49730a467" />
+  <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.svg?t=30b49730a467" />
+  <img src="docs/assets/banner.svg?t=30b49730a467" width="100%" alt="THIzaKaYaDEVCosole — 东方 Mystia 酒馆 Unity IL2CPP 调试台 · DX11/ImGui 实验" />
+</picture>
+
+<br/>
+
+C++ · NOASSERTION · ★8
+
+[releases](https://github.com/dwgx/THIzaKaYaDEVCosole/releases)
+
+</div>
+<!-- dwgx-banner:END -->
+
+
 - This repository is provided only for education, reverse engineering research, debugging, and interoperability study.
 - Do not use any code or ideas here for unauthorized access, cheating in online services, privacy invasion, data theft, malware delivery, or service disruption.
 - You must comply with applicable laws, platform Terms of Service, and software/game EULA before any use.

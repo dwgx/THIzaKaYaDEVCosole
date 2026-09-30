@@ -1,0 +1,14 @@
+# repo-kit · 本仓库的 banner 规格
+# 改这个文件，workflow 会重新渲染 docs/assets/banner*.svg 与 README 区块
+# 生成器：https://github.com/dwgx/DWGX/tree/main/repo-kit
+owner = "dwgx"
+
+[[repo]]
+name = "THIzaKaYaDEVCosole"
+style = "tree"
+tagline = "东方 Mystia 酒馆 Unity IL2CPP 调试台 · DX11/ImGui 实验"
+install = "msbuild THIzaKaYaDEVCosole.slnx /p:Configuration=Release /p:Platform=x64"
+lang = "C++"
+license = "NOASSERTION"
+topics = ["debug-console", "il2cpp", "imgui", "touhou", "unity"]
+links = [{ label = "releases", url = "https://github.com/dwgx/THIzaKaYaDEVCosole/releases" }]
